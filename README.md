@@ -14,7 +14,7 @@ The aim of this project was to create a Face Detection, Eye detection and Smile 
 
 ```
 #Once the project has been setup, navigate to the project directory
-cd /FaceDetction
+cd /Detections
 
 #To check python version and Start the python
 python --version
